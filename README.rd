@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="./assets/banner.png" alt="Banner" width="100%"/>
@@ -113,5 +112,4 @@ Open to:
 *"Technology becomes powerful when it solves real problems."*
 
 </div>
-```
 

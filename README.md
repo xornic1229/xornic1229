@@ -2,14 +2,6 @@
 
 <img src="./assets/banner.png" alt="Profile banner" width="100%"/>
 
-<br>
-
-# Jaime Alonso Pulido
-
-### Computer Engineering & Business Administration Student  
-### AI · Data Science · Automation · Systems
-
-**Building technology that connects intelligent systems with real-world business impact.**
 
 <br>
 
@@ -41,7 +33,7 @@ Alongside my university studies, I am strengthening my software development skil
 
 <div align="center">
 
-<img src="./assets/focus.png" alt="Current focus" width="85%"/>
+
 
 </div>
 

@@ -3,7 +3,6 @@
 <img src="./assets/banner.png" alt="Profile banner" width="100%"/>
 
 
-----
 
 <br>
 
@@ -34,7 +33,6 @@ Alongside my university studies, I am strengthening my software development skil
 ## Current Focus
 
 <div align="center">
-
 
 
 </div>

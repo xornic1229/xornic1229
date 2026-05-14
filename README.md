@@ -3,6 +3,8 @@
 <img src="./assets/banner.png" alt="Profile banner" width="100%"/>
 
 
+----
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00C2FF)](TU-LINKEDIN)

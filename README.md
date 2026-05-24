@@ -6,8 +6,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00C2FF)](TU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00C2FF)](mailto:TU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00C2FF)](https://www.linkedin.com/in/jaime-alonso-pulido-02220938b/)
+[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00C2FF)](xornic1229@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00C2FF)](https://github.com/xornic1229)
 
 </div>
